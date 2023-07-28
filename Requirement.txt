@@ -1,0 +1,2 @@
+Develop a Flutter app that precisely replicates the design and user experience of the iPhone Notes app. Your goal is to create a visually and functionally identical user interface (UI) and user experience (UX) in the Flutter app.
+!gif(note.gif)
